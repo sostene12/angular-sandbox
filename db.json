@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "May 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at School",
+      "day": "May 6th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "work on Hamwe.rw",
+      "day": "Tuesday 12:00",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Attend meeting at Softpi",
+      "day": "Tuesday 13:00 pm",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
