@@ -1,0 +1,88 @@
+{
+  "employees": [
+    {
+      "firstName": "sostene",
+      "lastName": "ngarukiyimana",
+      "email": "sostene1@gmail.com",
+      "dob": "2023-07-27T22:00:00.000Z",
+      "gender": "male",
+      "education": "graduate",
+      "company": "Fuelcapp",
+      "experience": 2,
+      "package": 15,
+      "id": 1
+    },
+    {
+      "firstName": "kalisa",
+      "lastName": "juma",
+      "email": "juma@gmail.com",
+      "dob": "2023-07-25T22:00:00.000Z",
+      "gender": "male",
+      "education": "graduate",
+      "company": "UR",
+      "experience": 5,
+      "package": 20,
+      "id": 2
+    },
+    {
+      "firstName": "caleb",
+      "lastName": "curry",
+      "email": "calebcurry@gmail.com",
+      "dob": "2023-07-21T22:00:00.000Z",
+      "gender": "male",
+      "education": "post graduate",
+      "company": "Google",
+      "experience": 1,
+      "package": 8,
+      "id": 3
+    },
+    {
+      "firstName": "bazambanza",
+      "lastName": "aboudoulkarim",
+      "email": "bzkarim@gmail.com",
+      "dob": "2023-06-19T22:00:00.000Z",
+      "gender": "male",
+      "education": "graduate",
+      "company": "KOBE",
+      "experience": 2,
+      "package": 16,
+      "id": 4
+    },
+    {
+      "firstName": "ishimwe",
+      "lastName": "belyse",
+      "email": "bebebelyese@gmail.com",
+      "dob": "2023-05-18T22:00:00.000Z",
+      "gender": "female",
+      "education": "graduate",
+      "company": "ITECH",
+      "experience": 2,
+      "package": 13,
+      "id": 5
+    },
+    {
+      "firstName": "Mwizerwa",
+      "lastName": "charite",
+      "email": "charite@yahoo.fr",
+      "dob": "2023-07-28T22:00:00.000Z",
+      "gender": "female",
+      "education": "intermediate",
+      "company": "Designer",
+      "experience": 2,
+      "package": 30,
+      "id": 7
+    },
+    {
+      "firstName": "bella",
+      "lastName": "ishimwe",
+      "email": "christa@gmail.com",
+      "dob": "2023-07-29T22:00:00.000Z",
+      "gender": "female",
+      "education": "graduate",
+      "company": "Andela",
+      "experience": 2,
+      "package": 30,
+      "id": 8
+    }
+  ]
+}
